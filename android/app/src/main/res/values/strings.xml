@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string name="app_name">Your App Name here.</string>-->
+
+<!--    &lt;!&ndash; Replace "000000000000" with your Facebook App ID here. &ndash;&gt;-->
+<!--    <string name="facebook_app_id">YOUR APP ID HERE</string>-->
+
+<!--    &lt;!&ndash;-->
+<!--      Replace "000000000000" with your Facebook App ID here.-->
+<!--      **NOTE**: The scheme needs to start with `fb` and then your ID.-->
+<!--    &ndash;&gt;-->
+<!--    <string name="fb_login_protocol_scheme">fbYOUR APP ID</string>-->
+
+    <string name="branch_io_sdk_live_key">key_live_dm0QhvCSHH9BEMZtICJOBmofvCpDZwOa</string>
+    <string name="branch_io_sdk_test_key">key_test_jdWJlsDKPMWsvR7ySQnFrllnEwdz6qVC</string>
+
+<!--    <string name="deeplink_test_link">7ylrj.test-app.link</string>-->
+<!--    <string name="deeplink_alternate_test_link">7ylrj-alternate.test-app.link</string>-->
+
+    <string name="deeplink_test_link">7ylrj.app.link</string>
+    <string name="deeplink_alternate_test_link">7ylrj-alternate.app.link</string>
+
+    <string name="app_name">Whats this car?</string>
+    <string name="facebook_app_id">1004716167062698</string>
+    <string name="fb_login_protocol_scheme">fb1004716167062698</string>
+    <string name="facebook_client_token">4c38f653e2490c63a8922efe66a7f90a</string>
+
+</resources>
